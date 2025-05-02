@@ -1,10 +1,10 @@
 {
-  "name": "my-node-app",
+  "name": "GitHubBootCamp",
   "version": "1.0.0",
   "description": "A simple Node.js app with CI",
   "main": "index.js",
   "scripts": {
-    "test": "node.js"
+    "test": "jest"
   },
   "author": "Your Name",
   "license": "ISC",
